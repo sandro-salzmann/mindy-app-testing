@@ -1,17 +1,17 @@
 {
   "files": {
     "main.css": "/mindy-app-testing/static/css/main.c2b91ddf.css",
-    "main.js": "/mindy-app-testing/static/js/main.174ecc73.js",
+    "main.js": "/mindy-app-testing/static/js/main.1c82a5d0.js",
     "static/media/primeicons.svg": "/mindy-app-testing/static/media/primeicons.c6e2053303524e39530c.svg",
     "static/media/primeicons.eot": "/mindy-app-testing/static/media/primeicons.7fc4d8e224d1ff1b9c62.eot",
     "static/media/primeicons.woff": "/mindy-app-testing/static/media/primeicons.449aa8c65cdc5c2a8686.woff",
     "static/media/primeicons.ttf": "/mindy-app-testing/static/media/primeicons.91bacab1f083f2795272.ttf",
     "index.html": "/mindy-app-testing/index.html",
     "main.c2b91ddf.css.map": "/mindy-app-testing/static/css/main.c2b91ddf.css.map",
-    "main.174ecc73.js.map": "/mindy-app-testing/static/js/main.174ecc73.js.map"
+    "main.1c82a5d0.js.map": "/mindy-app-testing/static/js/main.1c82a5d0.js.map"
   },
   "entrypoints": [
     "static/css/main.c2b91ddf.css",
-    "static/js/main.174ecc73.js"
+    "static/js/main.1c82a5d0.js"
   ]
 }
